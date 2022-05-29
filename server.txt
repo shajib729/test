@@ -1,1 +1,1 @@
-hello server
+hello server lite
